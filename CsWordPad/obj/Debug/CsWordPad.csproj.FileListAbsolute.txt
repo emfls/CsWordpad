@@ -1,0 +1,9 @@
+C:\Users\qordl\Documents\Visual Studio 2015\Projects\CsWordPad\CsWordPad\bin\Debug\CsWordPad.exe.config
+C:\Users\qordl\Documents\Visual Studio 2015\Projects\CsWordPad\CsWordPad\bin\Debug\CsWordPad.exe
+C:\Users\qordl\Documents\Visual Studio 2015\Projects\CsWordPad\CsWordPad\bin\Debug\CsWordPad.pdb
+C:\Users\qordl\Documents\Visual Studio 2015\Projects\CsWordPad\CsWordPad\obj\Debug\CsWordPad.csprojResolveAssemblyReference.cache
+C:\Users\qordl\Documents\Visual Studio 2015\Projects\CsWordPad\CsWordPad\obj\Debug\CsWordPad.Form1.resources
+C:\Users\qordl\Documents\Visual Studio 2015\Projects\CsWordPad\CsWordPad\obj\Debug\CsWordPad.Properties.Resources.resources
+C:\Users\qordl\Documents\Visual Studio 2015\Projects\CsWordPad\CsWordPad\obj\Debug\CsWordPad.csproj.GenerateResource.Cache
+C:\Users\qordl\Documents\Visual Studio 2015\Projects\CsWordPad\CsWordPad\obj\Debug\CsWordPad.exe
+C:\Users\qordl\Documents\Visual Studio 2015\Projects\CsWordPad\CsWordPad\obj\Debug\CsWordPad.pdb
